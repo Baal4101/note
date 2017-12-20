@@ -1,0 +1,31 @@
+
+
+oracle启动
+
+sqlplus /nolog  启动sql*plus 而不连接到数据库
+
+conn / as sysdba 获得管理权限
+
+startup 启动数据库
+
+
+待验证 
+sqlplus / as sysdba
+
+
+--------------------事务--------------------------
+
+原子性
+
+一致性
+
+隔离性
+
+持久性
+
+@Respostory  @Service  @Controller
+
+BigDecimal
+
+
+
